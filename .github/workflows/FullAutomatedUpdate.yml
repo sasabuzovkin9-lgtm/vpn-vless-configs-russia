@@ -2,7 +2,7 @@ name: FullAutomatedUpdate.yml
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # раз в 2 часа (или настройте под свои нужды)
+    - cron: '0 */1 * * *'   # раз в 2 часа (или настройте под свои нужды)
   workflow_dispatch:
 
 permissions:
