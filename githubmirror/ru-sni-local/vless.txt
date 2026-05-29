@@ -1,1 +1,1 @@
-vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=tls&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
+vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&sid=478dc6&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.4MB%2Fs
