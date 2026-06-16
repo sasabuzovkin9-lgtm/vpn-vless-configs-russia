@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-16T19:39:48.989197",
+  "timestamp": "2026-06-16T22:15:06.380759",
   "github_mirror_clean": {
-    "vless": 55,
+    "vless": 54,
     "vmess": 1
   },
   "ru_sni_filtered": {
@@ -9,7 +9,7 @@
     "vmess": 0
   },
   "totals": {
-    "clean": 56,
+    "clean": 55,
     "ru_sni": 0,
     "filter_rate": 0.0
   },
