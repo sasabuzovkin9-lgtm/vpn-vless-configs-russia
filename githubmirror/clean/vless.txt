@@ -1,13 +1,15 @@
-vless://03dca54e-acc1-4898-956a-28bb37cc5cac@198.41.129.37:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 35
-vless://07437593-2657-4372-9626-00cf3c951f03@103.22.201.134:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 8
-vless://091c01c2-5d8a-4dbf-9e61-17de727bb28c@197.234.241.158:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 26
-vless://0f627e8f-e4e8-431f-a1c5-18ae0d6cdcd3@173.245.48.57:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 33
-vless://10fcc987-bc13-402a-af5d-f20613da0f5c@103.22.200.230:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 31
-vless://199056d0-a9ec-484e-a3b6-c80186a01aa0@190.93.240.129:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 21
-vless://1a41c4c9-e903-411c-b9a9-d17fb045ac28@103.21.244.71:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 17
-vless://26e875d2-a0c9-4fbc-8b51-7652c848a9e0@103.21.244.199:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 3
-vless://282792fc-9ec9-4b06-bdae-66746aee8816@104.24.0.74:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 24
-vless://308694e2-367c-4a5c-acad-7631772fa73c@103.31.5.126:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 30
+vless://025803b6-6fdc-40d5-abc0-ca410bb6ea4d@108.162.192.32:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 15
+vless://057ae813-e4e9-4f77-bff4-c245a748b167@108.162.193.119:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 25
+vless://14a9bfc3-cc3d-4a29-9df1-b0059de456da@197.234.240.21:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 41
+vless://18dfc2c6-cac4-4774-a9ae-8163ae5727fc@108.162.192.143:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 5
+vless://1f90acbe-1c3d-48d2-a03e-8964a6c84e7c@188.114.96.218:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 30
+vless://24e22a8b-482c-46f1-be16-aa88fc0e60b6@197.234.240.199:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 8
+vless://295ab91a-fa87-43b7-a0af-59c8e2cf743c@173.245.49.206:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 34
+vless://2baa710e-3410-4a5b-984e-48c8a86f8659@104.16.0.77:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 39
+vless://2cf8a1b7-0a07-4c19-aa5d-09e37a2c8169@103.31.4.240:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 26
+vless://34774ced-8791-46b4-b80d-0a676e5a8d20@131.0.73.159:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 45
+vless://34943b8d-3d6e-42c5-bd2d-0812861cad1c@172.64.0.186:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 22
+vless://3744ce38-bd10-4c57-b971-982d2ffc4181@190.93.241.3:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 19
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.13:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.14:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
@@ -17,46 +19,44 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.68:8443?fp=chrome&secur
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.69:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.93:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?fp=chrome&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
-vless://42cd282a-b2b1-4f49-baca-70844e736bdf@198.41.129.115:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 16
-vless://451b26f9-7fa3-4347-a89c-f8da0851181b@162.158.1.57:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 1
-vless://48c701a6-49b0-4d95-a39c-6f108d560566@197.234.241.236:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 10
-vless://48dfeae3-3d54-43f7-a215-09f2a8cce433@103.31.5.137:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 40
-vless://49e1953f-c4bc-4d83-b94a-8cefdfc984b5@103.21.245.107:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 18
-vless://513e34b7-bfe6-4fa8-9a6c-ed093e34e247@197.234.241.215:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 11
-vless://51d25040-9112-4610-969a-83aa8fb49b51@103.21.244.130:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 12
-vless://57653608-f319-40bb-98b0-e6eee1734f93@104.24.0.186:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 28
-vless://5ad2041c-dfe0-4aa1-8deb-9543d517a805@103.31.5.151:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 6
-vless://60754c0a-7bc9-4fdf-b1f4-9fd475ce7d08@131.0.72.26:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 23
+vless://4366e509-23b3-4d10-8bc4-783d41602dc2@162.158.1.25:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 17
+vless://439e90f6-72d1-4047-8a72-f3e73e39fd5d@141.101.64.148:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 18
+vless://45b03b4e-b0de-475e-81bc-7a8ede9e70a2@103.31.4.33:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 37
+vless://466c98a5-3019-458c-a4eb-153111a4e336@104.24.1.193:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 40
+vless://4e37bf15-72a5-4f13-9e4f-231440626550@108.162.193.147:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 31
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?host=vms.lifetime58.workers.dev&path=%2F&type=ws#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://685f18ef-103f-47cd-8587-ca5d228569ea@197.234.241.75:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 49
-vless://74eb6c98-a15b-44b6-924f-22dd7f5440c5@103.21.245.224:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 2
-vless://7500b8eb-fe89-42f7-b72d-88487c22c169@103.22.201.77:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 46
+vless://622306de-46fa-48f4-bcf0-0269f3aa8fa8@173.245.49.48:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 10
+vless://6720daa5-f76c-4744-9f96-c09a66b4e83e@108.162.192.192:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 33
+vless://6d0392ac-3fc1-4d70-a26d-166048a96ab4@188.114.96.9:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 2
+vless://6fdc6368-cc0b-4c87-96a3-f56f804f54bf@103.31.5.244:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 23
+vless://74ce7df2-857a-4bcb-8696-9d71a1914350@103.31.5.197:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 47
+vless://765b41cf-3527-4655-a355-1f0f2a7f5a75@104.16.1.176:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 16
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@tor.spectrumproxy.shop:443?flow=xtls-rprx-vision&fp=chrome&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=tls&sid=143627f1&sni=tor.spectrumproxy.shop#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-vless://7690ce06-525f-475b-bd3e-cd4f7743b85a@162.158.0.63:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 4
-vless://76e121df-1620-4f31-86d7-af5b6df9de99@198.41.128.15:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 50
-vless://77299293-cdc9-4e8f-8136-1c088c59153a@141.101.64.57:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 7
-vless://7af4c271-fba1-4ce5-b5da-0d8f279705b2@131.0.73.143:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 36
-vless://88686e76-e1e3-4c92-9a3b-7b84cfcb2a62@198.41.129.113:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 45
-vless://8f20a28a-3524-45af-9e10-85d80cec7299@103.31.5.183:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 43
-vless://90589702-4db8-4bcb-87b5-6cdd579bd56d@103.31.5.88:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 20
-vless://94ad9a57-5cbb-4678-aee8-5a338499ed02@162.158.0.208:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 41
-vless://9cb7ca23-7443-406d-8ad6-e5e238432d53@103.31.5.210:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 29
+vless://76f51598-b407-43f6-99a6-5dc4ab1e2d18@103.31.4.150:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 1
+vless://7b2e713e-c831-418b-82a0-7c7c0f9be97b@188.114.97.209:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 46
+vless://7b73089e-9276-456c-aeef-cdffe41cbb73@131.0.73.121:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 32
+vless://7cbfa52e-3ce2-4b25-941c-19e25d7ce003@104.16.1.214:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 49
+vless://7e0faf02-0364-4c86-b5b5-472eda62d7ad@172.64.1.112:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 21
+vless://7f98f88d-72a7-40f9-a536-21208e90b19d@188.114.96.77:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 12
+vless://80a869b6-f526-4605-832b-ed8c81efb027@172.64.0.68:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 27
+vless://836055a2-a7e2-4da8-ad26-6619baf5526c@104.24.0.54:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 28
+vless://89b3d7b5-c059-45b6-8a8c-c25fae202c4c@198.41.129.234:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 36
+vless://8e79fcf3-7f17-401b-ba72-9fa609ac8850@172.64.1.171:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 35
+vless://9306b763-2bb7-475d-ad60-7c77eb9038ae@141.101.64.36:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 3
+vless://934a4c25-afdf-4d32-8a8b-95d1e48e8b84@162.158.1.210:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 4
 vless://@V2ConfigPro@192.0.63.61:2083?encryption=mlkem768x25519plus.native.0rtt.OB4yhTV2iFBBbdkBvMkVFLCcTlAdXKnTdm6NGlvt_wA&fp=chrome&host=twotwoirvz.dpdns.org&path=%2F&security=tls&sni=twotwoirvz.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-vless://a7434b75-cf1f-4214-9465-67069969e4fe@190.93.240.73:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 27
-vless://a9bd4c08-7e32-4630-a67a-2e02b9bef44d@198.41.128.99:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 9
-vless://ab6339aa-f0ec-4405-b291-5537eb625bbb@190.93.241.91:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 13
-vless://abdf7366-f9b6-4978-9836-cd1e31e0b2b1@108.162.192.40:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 38
-vless://af64e9ab-2f26-4e7a-b28a-95909fd194de@188.114.97.38:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 5
-vless://b325a22e-261b-4323-866a-a9ceac99f003@190.93.241.64:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 44
-vless://b41342b4-7bbd-4c45-86a5-17dc639df3df@162.158.0.196:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 15
-vless://b82924f3-188d-44b5-84bf-6c042048c8bb@103.21.244.18:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 25
-vless://ba6ee199-798f-44e5-a77d-521c655a9a43@103.21.244.35:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 42
-vless://bfe18a5d-3096-4c2a-9ca6-1650ca7d3212@103.22.200.180:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 19
-vless://e279d0a8-90bc-43d0-838c-7746c75edbc2@141.101.64.17:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 14
-vless://e8982bab-d98d-49f2-80a1-159b75b230fb@172.64.1.183:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 34
-vless://ecd3c344-a4e7-40d6-8cbd-fe4e5ae9a093@103.31.5.64:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 22
-vless://ee5aafbb-ff3d-4449-a06a-7004e9223ed7@103.21.244.6:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 48
-vless://f1250753-3c49-43df-9038-61046335a5ee@162.158.0.149:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 32
-vless://fa2ed6bc-2105-4e1c-b1e5-7cfabf3037da@103.22.201.43:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 37
-vless://fb404e8c-ccfb-4ccb-a7fb-9f9657fd0142@103.21.244.198:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 47
-vless://fe840742-5e12-4a6f-8720-b77da827672d@188.114.96.90:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 39
+vless://a82633f6-c1bf-48d0-a942-09b9656589ce@103.31.4.135:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 9
+vless://b00b2997-2d05-4743-9dd8-6fe40ea0a76a@173.245.49.77:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 7
+vless://b3737013-d9f7-41cd-aede-8c53b2d8c825@172.64.0.20:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 11
+vless://b5ac89a9-2d3f-4054-a448-4d118ddbb2cf@198.41.129.16:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 20
+vless://b6725907-27e4-4679-a47c-d1e9057aed9c@188.114.97.139:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 13
+vless://bc53c157-fd49-4484-af31-a874782bd56e@131.0.72.126:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 44
+vless://d13b11fa-4be5-45ea-bfb5-dcaf87ab46bc@103.21.244.214:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪FRK-CF CF-VLESS 29
+vless://db361669-c221-42f2-8dae-1b87927f405a@104.16.0.177:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 50
+vless://de0cc5d8-10f9-4a9f-836d-e5a83f71ff52@188.114.97.233:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 6
+vless://ed5d1858-c687-4ef5-af73-f577ec488a24@162.158.1.189:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 42
+vless://ee694960-2c0b-44a5-a195-ee61a958f618@104.24.1.216:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇺🇦KBP-CF CF-VLESS 43
+vless://f1880694-f30c-4c37-baf8-34bac26f4fe3@103.22.200.11:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇪🇺EU-Fast CF-VLESS 38
+vless://f2184905-5cec-4906-9491-ed2f5c35a469@108.162.192.184:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇵🇱WARSAW CF-VLESS 14
+vless://f31d0308-6128-4066-8bc3-4474924aa418@198.41.128.154:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇷🇺MSK-CF CF-VLESS 48
+vless://f596bd32-d3df-488d-af0c-2d450d996fb9@162.158.1.117:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#🇩🇪TELECOM CF-VLESS 24
