@@ -633,6 +633,7 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/su
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/main/sub/list/66.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/Eternity.yml
 https://raw.githubusercontent.com/mahdibland/get_v2/main/pub/combine.yaml
 https://raw.githubusercontent.com/mermeroo/Clash-V2ray/main/v2ray
 https://raw.githubusercontent.com/mermeroo/Loon/main/node
