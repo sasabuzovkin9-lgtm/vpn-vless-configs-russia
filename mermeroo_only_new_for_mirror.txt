@@ -228,7 +228,9 @@ https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/a11
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all3
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all4
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
+https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/a11
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
+https://raw.githubusercontent.com/Leon406/jsdelivr/master/subscribe/subpools
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
 https://raw.githubusercontent.com/LiveXY/elearning/main/python.txt
@@ -363,9 +365,10 @@ https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/ss
 https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/ssr
 https://raw.githubusercontent.com/baip01/clash/main/clash
 https://raw.githubusercontent.com/baipiao0/baipiao02/main/v2ray
+https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt
@@ -522,7 +525,6 @@ https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/èŠ
 https://raw.githubusercontent.com/ljsshd/aggregator/main/data/clash.yaml
 https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub28.txt
 https://raw.githubusercontent.com/lonycc/fuli/main/telegram.txt
-https://raw.githubusercontent.com/luxl-1379/merge/77247d23def72b25226dfa741614e9b07a569c72/sub/sub_merge_base64.txt
 https://raw.githubusercontent.com/luxl-1379/merge/main/sub/sub_merge_base64.txt
 https://raw.githubusercontent.com/madeye/mihomo-rust/main/M2_QA_BASELINE.txt
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
@@ -587,7 +589,6 @@ https://raw.githubusercontent.com/penhandev/AutoAiVPN/refs/heads/main/AtuoAiVPN.
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/refs/heads/main/allConfigs.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/refs/heads/main/iran.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/refs/heads/main/russia.txt
-https://raw.githubusercontent.com/personqianduixue/SubCrawler/main/sub/share/all
 https://raw.githubusercontent.com/pojiezhiyuanjun/2023/master/0804clash.yml
 https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/20200808.txt
 https://raw.githubusercontent.com/predatorray/shadowsocks-helm-chart/main/templates/NOTES.txt
@@ -776,6 +777,16 @@ https://raw.githubusercontent.com/vxiaov/free_proxy_ss/main/v2ray/v2raysub
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription1
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription2
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription3
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription4
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription5
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription6
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription7
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription8
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription_num
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/refs/heads/main/Long_term_subscription_try
 https://raw.githubusercontent.com/wang1/Manjaro-i3/main/note.txt
 https://raw.githubusercontent.com/wangyingbo/yb_clashgithub_sub/main/clash_sub.yml
 https://raw.githubusercontent.com/webdao/v2ray/master/nodes.txt
