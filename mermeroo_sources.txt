@@ -893,7 +893,7 @@ https://raw.githubusercontent.com/webdao/v2ray/refs/heads/master/nodes.txt
 https://raw.githubusercontent.com/webdao/v2ray/refs/heads/master/nodes2.txt
 https://raw.githubusercontent.com/webdao/v2ray/refs/heads/master/nodes3.txt
 https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub.txt
-https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub.yml
+https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub.yaml
 https://raw.githubusercontent.com/wrfree/free/refs/heads/main/ssr
 https://raw.githubusercontent.com/wrfree/free/refs/heads/main/v2
 https://raw.githubusercontent.com/xhmotor/V2rayn/main/v2rayn
