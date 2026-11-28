@@ -128,6 +128,7 @@ https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/config/channels
 https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/mixed.txt
 https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/dnsforgame/shecan.yml
 https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/MahsaNetConfigTopic.yaml
+https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/test.yaml
 https://raw.githubusercontent.com/1979139113/0day-today-exploits/main/28798.txt
 https://raw.githubusercontent.com/245237866/v2rayn/main/everydaynode
 https://raw.githubusercontent.com/372groupproject/milestones-team9-jiachengyang-wenkaizheng/main/video.txt
